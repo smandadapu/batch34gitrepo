@@ -1,1 +1,2 @@
 sample text file git workflow setup.
+changes for staging
